@@ -22,7 +22,7 @@
     font-size: 40px;
     background-color: #fff;
     margin: 10px;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
     border-radius: 100px;
     background-size: 100% 200%;
     /* background-position: 0% 5%; */
@@ -40,8 +40,8 @@
 }
 
 .icon a:nth-child(3) {
-    color: #03a9f5;
-    background-image: linear-gradient(#fff 50%, #03a9f5 50%);
+    color: black;
+    background-image: linear-gradient(#fff 50%, black 50%);
 }
 
 .icon a:hover {
